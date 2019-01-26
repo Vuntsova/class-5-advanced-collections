@@ -35,6 +35,17 @@ Group invoices per customer. Your final result will look something like:
         ]
     ]
 }
+
+'17850': {'536365': ['536365',
+                      '21730',
+                      'GLASS STAR FROSTED T-LIGHT HOLDER',
+                      '6',
+                      '12/1/10 08:26',
+                      '4.25',
+                      '17850',
+                      'United Kingdom'],
+          
+          
 ```
 
 
